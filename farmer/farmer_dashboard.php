@@ -139,7 +139,7 @@
                <div class="col-lg-6 col-md-12">
                   <div class="titlepage text_align_left">
                      <span>About Us</span>
-                     <h2>AGRICULTURE MARKETTTT</h2>
+                     <h2>AGRICULTURE MARKET</h2>
                      <p>The Farmer Dashboard is designed to be user-friendly and intuitive, with a clean and straightforward interface that makes it easy for farmers to access the information they need. Whether you're a small-scale farmer or a large agricultural operation, the Farmer Dashboard can help you stay on top of the latest trends and insights in the industry, enabling you to make informed decisions about everything from planting schedules to pricing strategies.</p>
                      <a class="read_more" href="weather.php">Weather Report</a>
                   </div>
